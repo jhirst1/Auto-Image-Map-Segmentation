@@ -2,7 +2,7 @@
 =====================================
 Automatic Image Map Segmentation
 =====================================
-:Author: kingboop
+:Author: jhirst1
 :Date: Sat Apr 13 15:05:02 2019
 
 =====================================
